@@ -1,0 +1,6 @@
+<resources>
+  <string name="app_name" translatable="false">Phân loại chữ số</string>
+  <string name="clear_button_text" translatable="false">Xóa</string>
+  <string name="prediction_text_placeholder" translatable="false">Hãy vẽ một chữ số</string>
+  <string name="classification_error_message" translatable="false">Lỗi phân loại bản vẽ: %s</string>
+</resources>
